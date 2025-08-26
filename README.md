@@ -211,11 +211,6 @@ test_new_video(model, video_path, frames_per_second=5, sequence_length=SEQ_LENGT
 
 ---
 
-## 📜 License
-
-MIT License. Feel free to use and modify for research/education.
-
----
 
 ## 🙌 Acknowledgements
 
